@@ -5,7 +5,7 @@
 Telegram bot designed to detect cats and dogs using YOLO technology.
 - TRAINING.ipynb shows yolov5 training process;
 - yolov5 folder contains:
-    - clonded yolov5 repo;
+    - cloned yolov5 repo;
     - bot.py - telegram bot;
     - datasetScript.py - used to parse xml dataset to sutible for training form.
 ---
