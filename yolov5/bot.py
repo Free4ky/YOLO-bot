@@ -6,7 +6,7 @@ import os
 
 isRunning = False
 
-TOKEN = "5523936677:AAFvgUWkL3fvs5Rvd8IpcQcWBZPH_o4at_o"
+TOKEN = ...
 bot = telebot.TeleBot(TOKEN)
 
 #currentPath = pathlib.Path().resolve()
